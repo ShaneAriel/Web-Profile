@@ -3,3 +3,5 @@
 
 2. Social Media Card
 ![Screenshot 2024-05-04 135943](https://github.com/ShaneAriel/Web-Profile/assets/90316064/b31986d8-2776-49ba-99e7-58eefdb227fb)
+
+Dengan menambahkan file javascript (vanilla-tilt.babel.min.js), agar menghasilkan animasi ketika mouse pointer diarahkan ke card tersebut.
